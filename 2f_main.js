@@ -1,32 +1,9 @@
-function zold() {
-    document.getElementById("elso");
-    elso.style.color = "green";
+function zold(szoveg) {
+    document.getElementById("1").style.color = 'black';
+    document.getElementById("2").style.color = 'black';
+    document.getElementById("3").style.color = 'black';
+
+    szoveg.style.color = "green";
 
 }
 
-function bevitelBlur() {
-    const input = document.getElementById("elso");
-    input.style.color = "black"; 
-} 
-
-function zold() {
-    document.getElementById("mas");
-    elso.style.color = "green";
-
-}
-
-function bevitelBlur() {
-    const input = document.getElementById("mas");
-    input.style.color = "black"; 
-} 
-
-function zold() {
-    document.getElementById("har");
-    elso.style.color = "green";
-
-}
-
-function bevitelBlur() {
-    const input = document.getElementById("har");
-    input.style.color = "black"; 
-}
